@@ -1,5 +1,9 @@
 import java.util.HashMap;
 import java.util.LinkedHashSet;
+
+/* Time Complexity: O(N³)
+ * Space Complexity: O(1) */
+
 public class BruteForce
 {
 	public static void main(String[] args) {
