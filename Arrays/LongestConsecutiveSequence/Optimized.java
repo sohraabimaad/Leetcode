@@ -1,4 +1,9 @@
 import java.util.HashSet;
+
+
+/* Time Complexity: O(N)
+ * Space Complexity: O(N) */
+
 public class leetcode
 {
 	public static void main(String[] args) {
